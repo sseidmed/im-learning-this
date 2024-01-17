@@ -1,6 +1,8 @@
-# Default starter for Gridsome
+# My personal blog
 
-This is the project you get when you run `gridsome create new-project`.
+I took inspiration from other open-source works, so feel free to use this template for yourself.
+
+## Create your own Gridsome project
 
 ### 1. Install Gridsome CLI tool if you don't have
 
@@ -12,3 +14,13 @@ This is the project you get when you run `gridsome create new-project`.
 2. `cd my-gridsome-site` to open the folder
 3. `gridsome develop` to start a local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
+
+## Run this project locally
+
+### 1. Install all the dependencies
+
+`npm install`
+
+### 2. Run the app locally
+
+`gridsome develop`
